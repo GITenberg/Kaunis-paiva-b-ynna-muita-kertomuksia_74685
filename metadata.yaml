@@ -5,6 +5,9 @@ contributor:
     agent_name: Ahava, Juha
     gutenberg_agent_id: '57599'
     url: http://www.gutenberg.org/2009/agents/57599
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bang, Herman
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herman_Bang
     - https://da.wikipedia.org/wiki/Herman_Bang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74685#Kaunis-paiva-b-ynna-muita-kertomuksia
 gutenberg_issued: '2024-11-05'
 gutenberg_type: Text
 identifiers:
